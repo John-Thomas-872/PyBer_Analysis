@@ -14,6 +14,6 @@ Taking a quick look at the numbers in the figure above, the total rides, drivers
 
 The numbers from this chart can only tell so much of the story. To get a better idea of the values, we performed some more analysis on the numbers and plotted the values into the line chart. The line graph shows the date from January to April of 2019 on the x-axis and the Fares ($USD) on the y-axis. This graph helps verify the total rides, total drivers, and total fares per city type. Obviously, there are more drivers and riders in urban areas compared to rural areas. Having more drivers and riders also means that urban areas collect the most amount of money from fares. 
 
-![alt_text](Analysis/PyBer_fare_summary)
+![alt_text](Analysis/PyBer_fare_summary.png)
 
 ## Summary - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
