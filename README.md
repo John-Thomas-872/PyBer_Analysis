@@ -6,8 +6,10 @@ V. Isualize, the CEO of the multi Billion dollar company PyBer, a ride-sharing s
 
 ## Results - There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
 
-To begin this analysis we determined the following information for each city type from the merged .csv files: total rides, total drivers, total fares, average fare per ride, average fare per driver, and total fare by city type. This is all displayed in the PyBer_Summary_df DataFrame. 
+To begin this analysis we determined the following information for each city type from the merged .csv files: total rides, total drivers, total fares, average fare per ride, average fare per driver, and total fare by city type. This is all displayed in the PyBer_Summary_df DataFrame seen below. 
 
 ![alt text](Resources/PyBer_Summary_df.png)
+
+Taking a quick look at the numbers in the figure above, the total rides, drivers, and fares per city type all make sense. There are more rides taken, more drivers available, and higher fares collected in more densely populated areas versus more rural areas. At first it looks like the riders in rural areas are paying much higher fares compared to those in urban areas. It is important to remember that people in urban areas tend to take shorter rides around the city, versus those in rural areas that often travel further to reach their destinations. 
 
 ## Summary - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
