@@ -16,7 +16,12 @@ The numbers from this chart can only tell so much of the story. To get a better 
 
 ![alt_text](Analysis/PyBer_fare_summary.png)
 
-## Summary - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
 
 After performing analysis on the PyBer data, here are 3 recommendations for the company to make to help address a few disparities between the types of cities. 
-1.) 
+
+1.) Place a limit on the number of drivers in the urban cities. In both the rural and suburban city types, there are fewer drivers than rides taken during the timeframe. In urban areas there are 800 more drivers than there were rides taken.
+
+2.) Consider lowering the fares for rural araes, while slightly raising the fares for urban areas. A lower fare in rural areas would help draw in more riders. More riders and a slight raise in urban fares would more than make up for the lose of money in rural areas. 
+
+3.) 
