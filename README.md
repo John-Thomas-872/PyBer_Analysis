@@ -12,8 +12,11 @@ To begin this analysis we determined the following information for each city typ
 
 Taking a quick look at the numbers in the figure above, the total rides, drivers, and fares per city type all make sense. There are more rides taken, more drivers available, and higher fares collected in more densely populated areas versus more rural areas. At first it looks like the riders in rural areas are paying much higher fares compared to those in urban areas. It is important to remember that people in urban areas tend to take shorter rides around the city, versus those in rural areas that often travel further to reach their destinations. 
 
-The numbers from this chart can only tell so much of the story. To get a better idea of the values, we performed some more analysis on the numbers and plotted the values into the line chart. The line graph shows the date from January to April of 2019 on the x-axis and the Fares ($USD) on the y-axis. This graph helps verify the total rides, total drivers, and total fares per city type. Obviously, there are more drivers and riders in urban areas compared to rural areas. Having more drivers and riders also means that urban areas collect the most amount of money from fares. 
+The numbers from this chart can only tell so much of the story. To get a better idea of the values, we performed some more analysis on the numbers and plotted the values into the line chart. The line graph shows the date from January to April of 2019 on the x-axis and the Fares ($USD) on the y-axis. This graph helps verify the total rides, total drivers, and total fares per city type. Obviously, there are more drivers and riders in urban areas compared to rural areas. Having more drivers and riders also means that urban areas collect the most amount of money from fares as well. 
 
 ![alt_text](Analysis/PyBer_fare_summary.png)
 
 ## Summary - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+
+After performing analysis on the PyBer data, here are 3 recommendations for the company to make to help address a few disparities between the types of cities. 
+1.) 
