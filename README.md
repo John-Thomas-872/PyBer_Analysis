@@ -8,6 +8,6 @@ V. Isualize, the CEO of the multi Billion dollar company PyBer, a ride-sharing s
 
 To begin this analysis we determined the following information for each city type from the merged .csv files: total rides, total drivers, total fares, average fare per ride, average fare per driver, and total fare by city type. This is all displayed in the PyBer_Summary_df DataFrame. 
 
-![alt text](../Resources/PyBer_Summary_df.png)
+![alt text](Resources/PyBer_Summary_df.png)
 
 ## Summary - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
