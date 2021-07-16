@@ -24,4 +24,4 @@ After performing analysis on the PyBer data, here are 3 recommendations for the 
 
 2.) Consider lowering the fares for rural araes, while slightly raising the fares for urban areas. A lower fare in rural areas would help draw in more riders. More riders and a slight raise in urban fares would more than make up for the lose of money in rural areas. 
 
-3.) 
+3.) Place most of the focus on advertisements on the urban cities. Urban cities bring in more money than rural and suburban cities combined. Don't give up on the rural and suburban areas, but the main focus should be urban areas where most of the rides and drivers are located. 
